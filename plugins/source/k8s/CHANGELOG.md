@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.4](https://github.com/cloudquery/cloudquery/compare/plugins/source/k8s-v0.6.3...plugins/source/k8s/v0.6.4) (2022-08-17)
+
+
+### Features
+
+* Add website, docs and blog to our main repo ([#1159](https://github.com/cloudquery/cloudquery/issues/1159)) ([dd69948](https://github.com/cloudquery/cloudquery/commit/dd69948feced004497f127d284f2604de0354a1f))
+
 ## [0.6.3](https://github.com/cloudquery/cq-provider-k8s/compare/v0.6.2...v0.6.3) (2022-08-07)
 
 
